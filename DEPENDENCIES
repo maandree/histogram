@@ -1,0 +1,17 @@
+RUNTIME DEPENDENCIES:
+
+	bash
+	coreutils
+	sed
+
+
+BUILD DEPENDENCIES:
+
+	(none)
+
+
+INSTALL DEPENDENCIES:
+
+	make
+	coreutils
+
